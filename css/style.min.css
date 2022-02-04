@@ -663,7 +663,7 @@ html{
     padding:20px
 }
 .feature-box .feature-icon{
-    background-color:rgba(5,189,147,.15);
+    /* background-color:rgba(5,189,147,.15); */
     color:#05bd93;
     height:40px;
     width:40px;
@@ -1092,5 +1092,10 @@ html{
 }
 .footer-alt{
     background-color:#15242b
+}
+
+.img-feat{
+    width: 30px;
+  height: 30px;
 }
 /*# sourceMappingURL=style.min.css.map */
