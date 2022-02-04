@@ -66,7 +66,7 @@
     .myk-panel{
         width: 70%;right: 0;top: 0;bottom: 0;
     }
-    .myk-panel.myk-show{height: 100%}
+    .myk-panel.myk-show{height: 80%}
 
     .myk-panel{
         position: fixed;
@@ -75,7 +75,8 @@
         /* background-color: #ECE5DD; */
         /* width: 300px;  */
         width: 80%; 
-        height:0px;box-shadow: 0px 0px 10px #075E54;overflow-y: hidden;
+        box-shadow: 0px 0px 10px #075E54;
+        overflow-y: hidden;
         border-radius: 5px; 
         transition: all 0.5s ease-out; 
         z-index: 999;
@@ -89,7 +90,7 @@
     .myk-panel{
         width: 70%;right: 0;top: 0;bottom: 0;
     }
-    .myk-panel.myk-show{height: 100%}
+    .myk-panel.myk-show{height: 80%}
 
     .myk-panel{
         position: fixed;
@@ -113,7 +114,7 @@
     .myk-panel{
         width: 70%;right: 0;top: 0;bottom: 0;
     }
-    .myk-panel.myk-show{height: 100%}
+    .myk-panel.myk-show{height: 80%}
 
     .myk-panel{
         position: fixed;
