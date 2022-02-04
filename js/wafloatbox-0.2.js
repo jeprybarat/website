@@ -14,8 +14,7 @@ jQuery.fn.extend({
         var b = $(".myk-panel")
         b.append(`
         <div class="myk-panelhead">
-            <span class="myk-close">x</span>
-            
+            <h2 class="myk-paneltitle">Whatsapp Chat</h2>
         </div>
         <div class="myk-panelbody"></div>
         `)
