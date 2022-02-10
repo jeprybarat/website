@@ -89,10 +89,10 @@
     height: calc(100% - 30px)
 }
 
-::-webkit-scrollbar {
-    width: 0;  /* Remove scrollbar space */
-    background: transparent;  /* Optional: just make scrollbar invisible */
-}
+/* ::-webkit-scrollbar {
+    width: 0; 
+    background: transparent;  
+} */
 
 
 @media (min-width: 1281px) {
